@@ -1,3 +1,8 @@
+## • Attention
+I am continuing development of this application, which builds upon the NoTubeTV project (https://github.com/ycngmn/NoTubeTV) after its original developer archived it. Although I am not the original author, I am focused on adding new features and improvements to enhance the app. The NoTubeTV project was inspired by the original TizenTubeCobalt app (https://github.com/reisxd/TizenTubeCobalt).
+
+
+
 # MyTubeTV
 <p align="center">
   <img src='assets/MyTubeTV_banner.png' alt="MyTubeTV_banner_image">
